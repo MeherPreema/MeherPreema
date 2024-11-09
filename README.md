@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Meherunnesa Prima
+- 👀 I’m interested in AI, Machine Learning and Deep Learning 
+- 🌱 I’m currently learning Deep Learning 
+- 💞️ I’m looking to collaborate on Machine Learning
+- 📫 How to reach me gmail: preemameher831@gmail.com
